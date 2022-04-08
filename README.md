@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/vishakha_poonia](https://twitter.com/vishakha_poonia)
